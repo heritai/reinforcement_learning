@@ -143,6 +143,3 @@ Contributions to this repository are welcome.  Please follow these guidelines:
 *   Write clear and concise commit messages.
 *   Submit a pull request with a detailed description of the changes.
 
-## License
-
-[Specify the license for your repository]
